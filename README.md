@@ -36,5 +36,5 @@
 
 <h2>🤳Connect with me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-lopez-a605b82a/)](https://www.linkedin.com/in/miguel-lopez-a605b82a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-lightblue?style=flat&logo=linkedin&logoColor=teal&link=https://www.linkedin.com/in/miguel-lopez-a605b82a/)](https://www.linkedin.com/in/miguel-lopez-a605b82a/)
 
