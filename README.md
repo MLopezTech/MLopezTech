@@ -1,16 +1,41 @@
-### Hi there 👋
+<p align="center">
+  <img width="800" src="https://media.licdn.com/dms/image/D4E16AQHhVEfanay4eQ/profile-displaybackgroundimage-shrink_350_1400/0/1691459597920?e=1697068800&v=beta&t=NdzXvyvhmjotXA5U4l0gyTaC1Y4NPt2NskUzQmCmG64" />
+  
+</p>
 
-<!--
-**MLopezTech/MLopezTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## About Me 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 * I'm Miguel Angel Lopez—an ardent, disciplined IT pro. Driven by self-motivation, I channel my passion into innovative solutions. My adaptable expertise and unwavering commitment define my journey in technology.
+
+- Tech pro by day, cat dad by night. 🖥️🐾 Meet Mando 😸, my tabby sidekick on this digital adventure. 
+
+- Fitness buff and food explorer. Embracing Tech, nutrition, and Peruvian flavors. 🍛💻🏋️‍♂️
+
+
+## Tools 🛠️
+
+<img align="left" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /><img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+<br />
+
+
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/MLopezTech/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/MLopezTech/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MLopezTech/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MLopezTech/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MLopezTech/azure-network-protocols)
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/miguel-lopez-a605b82a/
