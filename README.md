@@ -36,6 +36,5 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-lopez-a605b82a/)](https://www.linkedin.com/in/miguel-lopez-a605b82a/)
 
-[linkedin]: https://www.linkedin.com/in/miguel-lopez-a605b82a/
