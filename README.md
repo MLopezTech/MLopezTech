@@ -13,9 +13,9 @@
 <p style="font-family: 'Arial', sans-serif; font-size: 18px; text-align: center; color: #555; max-width: 800px; margin: 0 auto; line-height: 1.6;">
   😄 * I'm Miguel Angel Lopez—an ardent, disciplined IT pro. Driven by self-motivation, I channel my passion into innovative solutions. My adaptable expertise and unwavering commitment define my journey in technology.
   <br /><br />
-  Tech pro by day, cat dad by night. 🖥️🐾 Meet Mando 😸, my tabby sidekick on this digital adventure. 
+  Tech pro by day, cat dad by night. 🖥️🐾 Meet Mando 😸, my tabby sidekick on this chapter of my tech journey 
   <br /><br />
-  Fitness buff and food explorer. Embracing Tech, nutrition, and Peruvian flavors. 🍛💻🏋️‍♂️
+  Architecting digital solutions and physical resilience — mind, muscle, mastery.. 🍛💻🏋️‍♂️
 </p>
 
 <br />
