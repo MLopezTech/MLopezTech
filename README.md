@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Miguel+Lopez+👋;Part+problem-solver%2C+part+creator+💡;Turning+messy+ideas+into+polished+solutions+💻;Tech+pro+by+day%2C+cat+dad+by+night+🐾"
-    alt="Typing SVG"
+    alt=""
   />
 </p>
 
