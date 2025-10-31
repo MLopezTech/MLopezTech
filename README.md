@@ -1,66 +1,86 @@
-<!-- Image Section -->
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://media.licdn.com/dms/image/D4E16AQHhVEfanay4eQ/profile-displaybackgroundimage-shrink_350_1400/0/1691459597920?e=1697068800&v=beta&t=NdzXvyvhmjotXA5U4l0gyTaC1Y4NPt2NskUzQmCmG64" 
-       alt="Miguel Lopez Profile Image"
-       width="800" 
-       style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);" />
-</div>
-
-<br />
-
-<!-- About Me Section -->
-<h2 style="text-align: center; font-family: 'Arial', sans-serif; color: #333;">About Me 👨🏻‍💻</h2>
-<p style="font-family: 'Arial', sans-serif; font-size: 18px; text-align: center; color: #555; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-  😄 * I'm Miguel Angel Lopez—an ardent, disciplined IT pro. Driven by self-motivation, I channel my passion into innovative solutions. My adaptable expertise and unwavering commitment define my journey in technology.
-  <br /><br />
-  Tech pro by day, cat dad by night. 🖥️🐾 Meet Mando 😸, my tabby sidekick on this chapter of my tech journey 
-  <br /><br />
-  Architecting digital solutions and physical resilience — mind, muscle, mastery.. 🍛💻🏋️‍♂️
+<!-- Animated Header Bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&section=header&text=Miguel%20Lopez&fontColor=ffffff&fontSize=32&fontAlign=50&fontAlignY=35" alt="header" />
 </p>
 
-<br />
-
-<!-- Tools Section -->
-<h3 style="text-align: center; font-family: 'Arial', sans-serif; color: #333;">Tools 🛠️</h3>
-<div style="text-align: center; margin-bottom: 30px;">
-  <img align="center" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding: 0 10px;"/>
-  <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding: 0 10px;"/>
-  <img align="center" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding: 0 10px;"/>
-  <img align="center" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding: 0 10px;"/>
-  <img align="center" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding: 0 10px;"/>
-  <img align="center" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding: 0 10px;"/>
-</div>
-
-<br />
-<br />
-
-<!-- Projects Section -->
-<h2 style="text-align: center; font-family: 'Arial', sans-serif; color: #333;">👨‍💻 Information Technology Projects</h2>
-<ul style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555; max-width: 800px; margin: 0 auto; line-height: 1.8; padding-left: 20px;">
-  <li><b>osTicket (Help Desk Ticketing System)</b>
-    <ul>
-      <li><a href="https://github.com/MLopezTech/osticket-prereqs" target="_blank" style="color: #0077b5;">osTicket: Prerequisites and Installation</a></li>
-      <li><a href="https://github.com/MLopezTech/post-install-config" target="_blank" style="color: #0077b5;">osTicket: Post-Installation Configuration</a></li>
-      <li><a href="https://github.com/MLopezTech/ticket-lifecycle" target="_blank" style="color: #0077b5;">osTicket: Ticket Lifecycle Examples</a></li>
-    </ul>
-  </li>
-  <li><b>Microsoft Azure</b>
-    <ul>
-      <li><a href="https://github.com/MLopezTech/configure-ad" target="_blank" style="color: #0077b5;">Configuring On-premises Active Directory within Azure VMs</a></li>
-      <li><a href="https://github.com/MLopezTech/azure-network-protocols" target="_blank" style="color: #0077b5;">Network Security Groups (NSGs) and Inspecting Network Protocols</a></li>
-    </ul>
-  </li>
-</ul>
-
-<br />
-<br />
-
-<!-- Connect with Me Section -->
-<h2 style="text-align: center; font-family: 'Arial', sans-serif; color: #333;">🤳 Connect with me:</h2>
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/miguel-lopez-a605b82a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-lightblue?style=flat&logo=linkedin&logoColor=teal" alt="LinkedIn Profile" />
-  </a>
+<!-- Typing Intro -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Miguel+Lopez+👋;Part+problem-solver%2C+part+creator+💡;Turning+messy+ideas+into+polished+solutions+💻;Tech+pro+by+day%2C+cat+dad+by+night+🐾"
+    alt="Typing SVG"
+  />
 </p>
 
+---
 
+## 👨🏻‍💻 About Me
+
+😄 **I’m Miguel Lopez — part problem-solver, part creator.**  
+I turn messy ideas into working systems and late nights into polished solutions.
+
+**Tech pro by day, cat dad by night.** 🖥️🐾 *Mando* 😸 handles morale during late deploys.
+
+---
+
+## ⚙️ Tools & Tech I Actually Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,python,js,ts,react,git,github,docker,mysql,postgres,vscode&perline=8" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-MacOS-0f172a?style=flat&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-0f766e?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS-2563eb?style=flat&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cat%20Supervisor-Mando-f97316?style=flat" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MLopezTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Miguel's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MLopezTech&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLopezTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top langs" />
+</p>
+
+---
+
+## 🏆 GitHub Flex
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MLopezTech&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+## 🚀 Featured Labs / Projects
+- 📝 **osTicket (Help Desk Ticketing System)**
+  - 🔗 [Prerequisites & Installation](https://github.com/MLopezTech/osticket-prereqs)
+  - 🔗 [Post-Installation Config](https://github.com/MLopezTech/post-install-config)
+  - 🔗 [Ticket Lifecycle Examples](https://github.com/MLopezTech/ticket-lifecycle)
+- ☁️ **Azure / AD Labs**
+  - 🔗 [On-prem AD inside Azure VMs](https://github.com/MLopezTech/configure-ad)
+  - 🔗 [NSGs + Protocol Inspecting](https://github.com/MLopezTech/azure-network-protocols)
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLopezTech&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+## 🐍 Commit Snake
+<p align="center">
+  <img src="https://github.com/MLopezTech/MLopezTech/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=36BCF7&section=footer" />
+</p>
