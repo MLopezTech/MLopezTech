@@ -16,6 +16,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud%2C+Linux%2C+and+Infrastructure+focused;Building+real-world+incident+response+labs;Turning+technical+practice+into+production-ready+skills"
+    alt="Typing SVG"
   />
 </p>
 
@@ -147,42 +148,34 @@ Azure • Active Directory • Networking • Identity
 
 ---
 
-## 🔥 Featured Repository Cards
+## 🔥 Featured Repository Links
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MLopezTech&repo=cloud-resume&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MLopezTech&repo=linux-operations-lab&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MLopezTech&repo=rhel-linux-incident-response-lab&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MLopezTech&repo=osticket-prereqs&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MLopezTech/cloud-resume"><b>☁️ Cloud Resume</b></a> •
+  <a href="https://github.com/MLopezTech/linux-operations-lab"><b>🛠 Linux Operations Lab</b></a> •
+  <a href="https://github.com/MLopezTech/rhel-linux-incident-response-lab"><b>🧠 RHEL Incident Response Lab</b></a> •
+  <a href="https://github.com/MLopezTech/osticket-prereqs"><b>🎫 osTicket Lab</b></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MLopezTech&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MLopezTech&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLopezTech&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MLopezTech&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLopezTech&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MLopezTech&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Animation
 <p align="center">
-  <img src="https://github.com/MLopezTech/MLopezTech/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MLopezTech/MLopezTech/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
