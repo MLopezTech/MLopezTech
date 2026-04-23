@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>IT Support Analyst • Cloud, Linux & Infrastructure Operations</b>
+  <b>IT Analyst • Cloud, Linux & Infrastructure Operations</b>
 </p>
 
 <!-- 🔷 PROFILE VIEWS -->
