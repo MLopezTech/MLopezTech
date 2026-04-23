@@ -68,7 +68,7 @@ Simulated a real production outage using **Amazon Linux + nginx** to replicate h
 **Skills Demonstrated:**  
 Linux • Incident Response • Root Cause Analysis • AWS EC2 • Service Recovery
 
-🔗 https://github.com/MLopezTech
+🔗 https://github.com/MLopezTech/Hybrid-Production-Incident-Lab/blob/main/incidents/hybrid-production-incident-responseAWS%2BLinux.md
 
 ---
 
@@ -100,7 +100,7 @@ Simulated a production-style incident on **Red Hat Enterprise Linux (RHEL)** to 
 **Skills Demonstrated:**  
 RHEL • Linux Ops • Incident Response • Log Analysis • Troubleshooting
 
-🔗 [https://github.com/MLopezTech/rhel-linux-incident-response-lab](https://github.com/MLopezTech/Hybrid-Production-Incident-Lab/blob/main/incidents/hybrid-production-incident-responseAWS%2BLinux.md)
+🔗 [[https://github.com/MLopezTech/rhel-linux-incident-response-lab](https://github.com/MLopezTech/Hybrid-Production-Incident-Lab/blob/main/incidents/hybrid-production-incident-responseAWS%2BLinux.md)](https://github.com/MLopezTech/rhel-linux-incident-response-lab)
 
 ---
 
