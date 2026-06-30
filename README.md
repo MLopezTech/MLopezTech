@@ -34,7 +34,7 @@ I actively build **real-world labs and projects** to simulate production environ
 
 ## 🎯 What I’m Focused On
 
-🎯 What I’m Focused On
+
 
 -- Enterprise IT support and service operations
 -- Systems troubleshooting, service restoration, and root cause analysis
