@@ -38,9 +38,8 @@ I actively build **real-world labs and projects** to simulate production environ
 - Linux system administration & troubleshooting
 - Incident response & root cause analysis (RCA)
 - Automation with Python & PowerShell
-- Transitioning into Cloud / Service Operations roles
-
----
+- Enterprise IT support, cloud support, Linux operations, service restoration, automation, and infrastructure reliability.
+  
 
 ## ⚙️ Core Tools & Technologies
 <p align="center">
