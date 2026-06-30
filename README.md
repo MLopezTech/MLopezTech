@@ -36,11 +36,15 @@ I actively build **real-world labs and projects** to simulate production environ
 
 
 
--- Enterprise IT support and service operations
--- Systems troubleshooting, service restoration, and root cause analysis
--- Linux administration, log analysis, and incident response
--- Cloud support across AWS and Azure environments
--- Automation with Python, PowerShell, and infrastructure tooling
+- Enterprise IT support and service operations
+  
+- Systems troubleshooting, service restoration, and root cause analysis
+  
+- Linux administration, log analysis, and incident response
+  
+- Cloud support across AWS and Azure environments
+  
+- Automation with Python, PowerShell, and infrastructure tooling
 
   
 
