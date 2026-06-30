@@ -34,11 +34,14 @@ I actively build **real-world labs and projects** to simulate production environ
 
 ## 🎯 What I’m Focused On
 
-- Cloud infrastructure (AWS & Azure)
-- Linux system administration & troubleshooting
-- Incident response & root cause analysis (RCA)
-- Automation with Python & PowerShell
-- Enterprise IT support, cloud support, Linux operations, service restoration, automation, and infrastructure reliability.
+🎯 What I’m Focused On
+
+-- Enterprise IT support and service operations
+-- Systems troubleshooting, service restoration, and root cause analysis
+-- Linux administration, log analysis, and incident response
+-- Cloud support across AWS and Azure environments
+-- Automation with Python, PowerShell, and infrastructure tooling
+
   
 
 ## ⚙️ Core Tools & Technologies
